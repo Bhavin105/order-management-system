@@ -16,6 +16,8 @@ A Python-based Order Management System developed using Django.
 
 ## Installation
 
-```bash
 pip install -r requirements.txt
 python main.py
+
+## Author
+Bhavin
